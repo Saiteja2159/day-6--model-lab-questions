@@ -26,3 +26,52 @@ int main()
     printf("\nSpecial characters: %d",special);
     return 0;
 }
+
+TEST CASE 1
+
+enter the word
+a.Hare Rama! Hare Krishna!!
+Upper case letters: 4
+Lower case letters: 16
+Numbers: 0
+Special characters: 7
+
+
+TEST CASE 2
+
+enter the word
+b.Insha Allah!!!
+Upper case letters: 2
+Lower case letters: 9
+Numbers: 0
+Special characters: 5
+
+
+TEST CASE 3
+
+enter the word
+*** May the Almighty will Bless Us***
+Upper case letters: 4
+Lower case letters: 21
+Numbers: 0
+Special characters: 12
+
+
+TEST CASE 4
+
+enter the word
+Science Never Ever Fails until End of the World.
+Upper case letters: 6
+Lower case letters: 33
+Numbers: 0
+Special characters: 9
+
+
+TEST CASE 5
+
+enter the word
+123456789!@#$%^&*()987654321
+Upper case letters: 0
+Lower case letters: 0
+Numbers: 18
+Special characters: 10
