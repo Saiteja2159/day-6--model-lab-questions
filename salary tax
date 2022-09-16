@@ -29,3 +29,26 @@ int main()
         printf("%f", tax);
     }    
 }
+
+
+
+TEST CASE 1
+enter your salary:400700
+80140.000000
+
+
+TEST CASE 2
+enter your salary:2789239
+836771.687500
+
+TEST CASE 3
+enter your salary:150000
+no tax
+
+TEST CASE 4
+enter your salary:00000
+no tax
+
+TEST CASE 5
+enter your salary:-125486
+no tax
